@@ -3,7 +3,7 @@
 //  Covid
 //
 //  Created by Arseni Khatsuk on 17.12.2024.
-//
+// Первый коммит
 
 import UIKit
 import Charts
